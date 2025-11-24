@@ -1,16 +1,76 @@
-## Hi there 👋
+<!-- Banner / Header -->
+<p align="center">
+  <img src="https://github.com/yourusername/yourusername/blob/main/banner.png" alt="Banner" width="100%" />
+</p>
 
-<!--
-**MLutfan/MLutfan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi, I'm Lutfan 👋</h1>
+<h3 align="center">IT Student • Game Developer Enthusiast • 3D Artist Learner</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🎓 Information Technology student at UIN Antasari  
+- 🎮 Passionate about **Game Development**, **3D Art**, and **Creative Coding**  
+- 🇯🇵 Big dream: Work and study in Japan, then build my own game studio  
+- 🛠 Currently building:  
+  - 📸 *Fall-detection camera project with Telegram integration*  
+  - 🤖 *Expert system for livestock disease diagnosis (Java GUI)*  
+
+---
+
+## 🧰 Tech Stack
+
+### 💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,js,cpp" />
+</p>
+
+### 🎨 Creative & Game Dev Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=blender,unity,unreal" />
+</p>
+
+### 🛠 Frameworks / Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,figma" />
+</p>
+
+---
+
+## 📌 Featured Projects
+🔹 **Fall Detection Camera System**  
+> Smart camera with child-fall detection + automatic Telegram notification. (Python + AI + IoT)
+
+🔹 **Expert System for Livestock Disease Diagnosis**  
+> Java GUI app with rule-based reasoning + accuracy percentage.
+
+🔹 **3D Art & Game Experiments**  
+> Personal sandbox for 3D modeling, shaders, and gameplay concepts.
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=yourusername&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+<p>
+  <a href="https://instagram.com/yourusername">
+    <img src="https://skillicons.dev/icons?i=instagram" width="40" />
+  </a>
+  <a href="https://linkedin.com/in/yourusername">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
+  </a>
+</p>
+
+---
+
+<p align="center">⭐ If you like my work, consider giving a star to the repos you enjoy!</p>

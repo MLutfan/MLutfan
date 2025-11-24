@@ -37,7 +37,7 @@
 
 ---
 
-## 📌 Featured Projects
+<!-- ## 📌 Featured Projects
 🔹 **Fall Detection Camera System**  
 > Smart camera with child-fall detection + automatic Telegram notification. (Python + AI + IoT)
 
@@ -47,12 +47,13 @@
 🔹 **3D Art & Game Experiments**  
 > Personal sandbox for 3D modeling, shaders, and gameplay concepts.
 
----
+--- 
+-->
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=yourusername&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=MLutfan&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=MLutfan&theme=tokyonight" />
 </p>
 
 <p align="center">
@@ -63,7 +64,7 @@
 
 ## 🌐 Connect With Me
 <p>
-  <a href="https://instagram.com/yourusername">
+  <a href="https://www.instagram.com/m_panpann">
     <img src="https://skillicons.dev/icons?i=instagram" width="40" />
   </a>
   <a href="https://linkedin.com/in/yourusername">

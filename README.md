@@ -1,6 +1,6 @@
 <!-- Banner / Header -->
 <p align="center">
-  <img src="https://github.com/yourusername/yourusername/blob/main/banner.png" alt="Banner" width="100%" />
+  <!--img src="https://github.com/yourusername/yourusername/blob/main/banner.png" alt="Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi, I'm Lutfan 👋</h1>

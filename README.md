@@ -1,7 +1,7 @@
 <!-- Banner / Header -->
 <p align="center">
   <!--img src="https://github.com/yourusername/yourusername/blob/main/banner.png" alt="Banner" width="100%" />
-</p>
+</p> -->
 
 <h1 align="center">Hi, I'm Lutfan 👋</h1>
 <h3 align="center">IT Student • Game Developer Enthusiast • 3D Artist Learner</h3>

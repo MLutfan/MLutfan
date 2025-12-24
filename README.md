@@ -69,4 +69,4 @@
 
 ---
 
-<p align="center">⭐ If you like my work, consider giving a star to the repos you enjoy!</p>
+<p align="center"> If you like my work, consider giving a star to the repos you enjoy!</p>

@@ -3,41 +3,36 @@
   <!--img src="https://github.com/yourusername/yourusername/blob/main/banner.png" alt="Banner" width="100%" />
 </p> -->
 
-<h1 align="center">Hi, I'm Lutfan 👋</h1>
+<h1 align="center">Hi, I'm Lutfan</h1>
 <h3 align="center">IT Student • Game Developer Enthusiast • 3D Artist Learner</h3>
 
 ---
 
-## 🚀 About Me
-- 🎓 Information Technology student at UIN Antasari  
-- 🎮 Passionate about **Game Development**, **3D Art**, and **Creative Coding**  
-- 🇯🇵 Big dream: Work and study in Japan, then build my own game studio  
-- 🛠 Currently building:  
-  - 📸 *Fall-detection camera project with Telegram integration*  
-  - 🤖 *Expert system for livestock disease diagnosis (Java GUI)*  
-
+## About Me
+- Information Technology student at UIN Antasari  
+- Passionate about **Game Development**, **3D Art**, and **Creative Coding**    
 ---
 
-## 🧰 Tech Stack
+##  Tech Stack
 
-### 💻 Languages
+###  Languages
 <p>
   <img src="https://skillicons.dev/icons?i=java,python,js,cpp" />
 </p>
 
-### 🎨 Creative & Game Dev Tools
+###  Creative & Game Dev Tools
 <p>
   <img src="https://skillicons.dev/icons?i=blender,unity,unreal" />
 </p>
 
-### 🛠 Frameworks / Tools
+###  Frameworks / Tools
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,figma" />
 </p>
 
 ---
 
-<!-- ## 📌 Featured Projects
+<!-- ##  Featured Projects
 🔹 **Fall Detection Camera System**  
 > Smart camera with child-fall detection + automatic Telegram notification. (Python + AI + IoT)
 
